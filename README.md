@@ -1,4 +1,4 @@
-<p align="center">Hello World! <br>Atualmente direcionando meus estudos ao backend<br>, <strong>adoro buscar novas ferramentas e descobrir seu funcionamento</strong> para utilizá-las a fim de criar soluções eficazes aos meus objetivos.</p>&nbsp;
+<p align="center">Hello World! <br>Atualmente direcionando meus estudos ao backend,<br> <strong>adoro buscar novas ferramentas e descobrir seu funcionamento</strong> para utilizá-las a fim de criar soluções eficazes aos meus objetivos.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ocarlls&theme=radical&mode=weekly" />
